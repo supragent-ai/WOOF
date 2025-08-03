@@ -1,7 +1,5 @@
 # WOOF
 
-WOOF Logo 
-
 Version 1.0 License Apache 2.0 Platform Cross-platform 
 
  The most Paw-some Image File Format for your AI workflows
